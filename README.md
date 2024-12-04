@@ -1,50 +1,104 @@
------BEGIN OPENSSH PRIVATE KEY-----
-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
------END OPENSSH PRIVATE KEY-----
+# Hospital Management System
+
+## <u>Project Overview</u>
+The **Hospital Management System** is a robust, web-based application designed to streamline hospital operations. It enables doctors and administrators to efficiently manage their respective tasks through secure, role-based dashboards. The project focuses on automating hospital processes, minimizing manual errors, and improving workflows.
+
+---
+
+## <u>Key Features</u>
+
+### Doctor Dashboard
+- View the list of patients currently under treatment.
+- Access detailed diagnostic data for individual patients.
+- Perform CRUD (Create, Read, Update, Delete) operations for patient management.
+- Manage hospital medicines, with options to add or update entries.
+
+### Admin Dashboard
+- View a list of patients (non-sensitive details only).
+- Perform CRUD operations to manage appointments.
+
+---
+
+## <u>Technical Scope</u>
+- **Frontend**: Angular 14  
+- **Backend**: Spring Boot  
+- **Database**: MySQL8  
+- **API Communication**: RESTful APIs  
+- **Real-Time Notifications**: WebSocket integration  
+
+---
+
+## <u>High-Level Design</u>
+
+### Architectural Overview
+The application follows the **MVC (Model-View-Controller)** architecture for modular, scalable, and maintainable development.
+
+### Frontend
+- Built with **Angular 14** using Angular CLI for scaffolding.
+- Implements:
+  - Dynamic routing via `RouterModule`.
+  - Two-way data binding using `[(ngModel)]`.
+  - Reactive forms powered by `FormBuilder`.
+- API communication is managed through Angular services.
+
+### Backend
+- Developed using **Spring Boot**.
+- **JPA/Hibernate** is used for database communication.
+- RESTful APIs support HTTP methods: `GET`, `POST`, `PUT`, `DELETE`.
+- Includes WebSocket for real-time notifications.
+- Ensures security with **CORS policies**.
+
+### Database
+- Built on **MySQL8** with tables for:
+  - Patients
+  - Doctors
+  - Medicines
+  - Appointments
+
+---
+
+## <u>How to Run the Application</u>
+
+### Prerequisites
+- **Frontend:**
+  - Node.js 16 or later
+  - Angular CLI
+- **Backend:**
+  - Java 17
+  - Maven
+- **Database:**
+  - MySQL8 or compatible database server
+
+### Setup Steps
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:Venkat-Kowshik/Hospital_Management_Sys.git
+   cd Hospital_Management_Sys
+Frontend Setup:
+
+Navigate to the frontend directory:
+bash
+Copy code
+cd frontend
+npm install
+ng serve
+Backend Setup:
+
+Navigate to the backend directory:
+bash
+Copy code
+cd backend
+mvn clean install
+mvn spring-boot:run
+Database Setup:
+
+Import the provided schema or create the tables in MySQL as defined in the project.
+Access the application:
+
+Frontend: http://localhost:4200
+Backend API Documentation (Swagger): http://localhost:8080/swagger-ui.html
+
+
+---
+
+   
